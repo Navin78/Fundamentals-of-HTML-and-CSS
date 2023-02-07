@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #f2f2f2;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    text-align: center;
+    background: #fff;
+    color:blue;
+    padding:10px;
+    font-size: 30px
+
+}
+p{
+    margin: 0 ;
+    padding :10px;
+}
+
+#container{
+    margin: 0 auto;
+    width:760px;
+}
+article{
+    background:white;
+    padding: 20px;
+    margin:20px 0;
+}
+ article p{
+     margin: 0 0 1em;
+
+} 
+ h1{
+    background-color: rgb(247, 225, 225);
+    cursor: pointer;
+    transition: all 0.2s  linear;
+}
+h1:hover{
+    background-color: rgb(187, 187, 247);
+    color:white ;
+}
+footer{
+    text-align:center;
+    color: #f11;
+}
+
+
+
